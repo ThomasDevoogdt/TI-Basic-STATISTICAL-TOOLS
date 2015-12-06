@@ -9,12 +9,14 @@ TI-83+, TI-83+ SE, TI-84+
 * ZTINDEX.8xp
 
 (https://en.wikipedia.org/wiki/Standard_score)
+
 (https://en.wikipedia.org/wiki/Student%27s_t-test)
 
 * ChiSquare.8xp
 * F_Distribution.8xp
 
 (https://en.wikipedia.org/wiki/Chi-squared_test)
+
 (https://en.wikipedia.org/wiki/F-distribution)
 
 * NORMALITY.8xp
